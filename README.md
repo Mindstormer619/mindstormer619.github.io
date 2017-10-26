@@ -1,2 +1,3 @@
 # mindstormer619.github.io
-Personal site
+
+Right now, this is just a test. _But it could become so much more..._
